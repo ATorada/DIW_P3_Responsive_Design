@@ -28,7 +28,7 @@ The way to do it with it is:
 
 The challenges I found was how to reproduce the different results depending on the device I was looking at.
 
-To solve this, I used the Media Queries with the Screen as a Media to make it, not only responsive, but well designed for the usual width/height devices like Tablets, Mobiles...
+To solve this, I used the Media Queries with the Screen as a Media to make it, not only responsive, but well designed for the usual width/height devices like Tablets, Smartphones...
 ## Theory
 
  - [Attardi, J. (2020). Responsive Design. In: Modern CSS. Apress, Berkeley, CA.](https://doi.org/10.1007/978-1-4842-6294-8_11)
